@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "how are you doing"
+echo "whwere are you going"
